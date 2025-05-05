@@ -47,11 +47,7 @@
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/your-channel)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white)](https://your-portfolio-link)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/akash-gola-8b3a16207/))
 ---
 
 💡 _“Always building. Always learning. Let’s innovate together!”_
