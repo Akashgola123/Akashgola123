@@ -56,4 +56,18 @@
 ---
 
 💡 _“Always building. Always learning. Let’s innovate together!”_
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akashgola123&show_icons=true&theme=github_dark&hide=stars,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akashgola123&layout=compact&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
 
