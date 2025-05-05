@@ -47,7 +47,7 @@
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/akash-gola-8b3a16207/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/akash-gola-8b3a16207/])
 ---
 
 💡 _“Always building. Always learning. Let’s innovate together!”_
