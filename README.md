@@ -1,11 +1,58 @@
-- 👋 Hi, I’m @Akashgola123
-- 👀 I’m interested in ...AI AND ML
-- 🌱 I’m currently learning ...AI AND ML
-- 💞️ I’m looking to collaborate with ...ELON MUSK
-- 📫 How to reach me ...golaaksh@gmail.com
-- I'm cpp lover and java also... and i want make a something unquie in the world
+👋 **Hey! Great to see you.**
 
-<!---
-Akashgola123/Akashgola123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# I'm Akash Gola 😎
+
+**AI/ML Engineer | Robotics Enthusiast | Hackathon Champion | Open-Source Contributor**
+
+---
+
+## 🧠 I have technical experience and interest in:
+
+- Machine Learning & Deep Learning
+- Natural Language Processing
+- Computer Vision & Generative AI
+- Robotics & IoT Systems
+- VR/AR Development (Unreal Engine)
+- LLMs, RAG, Knowledge Graphs
+- Edge AI (ESP32-CAM, Raspberry Pi)
+
+---
+
+## 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ROS-22314E?logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Unreal%20Engine-0E1128?logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" />
+</p>
+
+---
+
+## 🎯 My Hobbies and Interests:
+
+- 🤖 Building intelligent robots
+- 🏆 Competing & winning hackathons (7+ wins!)
+- 🎮 Developing VR worlds
+- ✍️ Sharing knowledge through projects & tutorials
+
+---
+
+## 🌐 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?logo=youtube&logoColor=white)](https://youtube.com/your-channel)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=githubpages&logoColor=white)](https://your-portfolio-link)
+
+---
+
+💡 _“Always building. Always learning. Let’s innovate together!”_
+
